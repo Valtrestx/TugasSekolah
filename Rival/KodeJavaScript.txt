@@ -1,0 +1,11 @@
+// Contoh tipe data Number (Angka)
+const jumlahRodaBMX = 2;
+const ukuranBanInch = 2.30;
+const tekananBanPsi = 45;
+
+// Hitung-hitungan matematika sederhana (+)
+const totalTekananDuaBan = tekananBanPsi + tekananBanPsi;
+
+console.log("Jumlah roda BMX:", jumlahRodaBMX);
+console.log("Ukuran ban:", ukuranBanInch, "inch");
+console.log("Total tekanan untuk dua ban:", totalTekananDuaBan, "PSI");
